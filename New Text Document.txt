@@ -1,6 +1,0 @@
-{"clientHostName": "string","clientIP": "string","clientLogin": "MKANDUKU","dbName": "SPARCSD2","password": "Monday#1","username": "MKANDUKU"}
-
-
-http://localhost:7000/?SPARCSTOKEN=bZvYeugEoz43864&username=MKANDUKU&hash=9D8AD793C31B8BAC0F65AB758C652816368882C51B754F54604137435FEFFE5C
-
-Yada Naga
